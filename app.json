@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "challenge-one",
+    "slug": "challenge-one",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "challenge-one"
+}
